@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    background: linear-gradient(#3949AB 0%, #18FFFF 100%);
+    background-repeat: no-repeat;
+}
+
+img {
+    height: 300px;
+    border-radius: 50%
+}
+
+h1 {
+    text-shadow: 1px 1px #880E4F;
+    font-size: 20px
+}
+
+ul {
+    text-align: center;
+}
+
+.menu {
+    position: fixed;
+    background: blue;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+    color: white
+}
+
+.links {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px
+}
+
+.links:hover {
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+font-family: 'Dancing Script',
+cursive;
